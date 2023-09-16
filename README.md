@@ -1,2 +1,3 @@
 # HTML5-Semantic-Tags-Learning
-Learning HTML5 Semantic Tags and applying them to create a simple webpage
+
+A repository containing a simple HTML5 tags example to be used by educators
